@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-<a href="https://horn.deno.dev">Horn</a> &nbsp;·&nbsp;
+<a href="https://horn.deno.dev"><strong>Horn</strong>strong></a> &nbsp;·&nbsp;
 <a href="https://nudocs.deno.dev"><strong>NuDocs</strong></a> &nbsp;·&nbsp;
 <a href="https://fest.deno.dev"><strong>Fest</strong></a>
 </p>
