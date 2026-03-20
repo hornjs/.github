@@ -1,15 +1,25 @@
-<p align="center">
-<span style="font-size:68px;">👋</span>
-&nbsp;
-<strong>Hornjs</strong>
-<br>
-<em>JavaScript ⚡️ Http tools</em>
-</p>
+<div align="center">
+  <br>
+  <br>
+  <a href="https://vite.dev" target="_blank" rel="noopener noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://openmoji.org/data/color/svg/E1C8.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://openmoji.org/data/color/svg/E1C8.svg">
+      <img alt="vite logo" src="https://openmoji.org/data/color/svg/E1C8.svg" height="60">
+    </picture>
+  </a>
+  <br>
+  <br>
+  
+  # Hornjs
+  
+  _JavaScript ⚡️ Http tools_
 
-<p align="center">
-<a href="https://horn.deno.dev"><strong>Horn</strong></a> &nbsp;·&nbsp;
-<a href="https://nudocs.deno.dev"><strong>NuDocs</strong></a> &nbsp;·&nbsp;
-<a href="https://fest.deno.dev"><strong>Fest</strong></a> &nbsp;·&nbsp;
-<a href="https://github.com/hornjs/prepare-publish"><strong>Prepare-Publish</strong></a> &nbsp;·&nbsp;
-<a href="https://github.com/hornjs/evt"><strong>Evt</strong></a>
-</p>
+  [Horn](https://horn.deno.dev) &nbsp;•&nbsp;
+  [NuDocs](https://nudocs.deno.dev) &nbsp;•&nbsp;
+  [Fest](https://fest.deno.dev) &nbsp;•&nbsp;
+  [Prepare-Publish](https://github.com/hornjs/prepare-publish) &nbsp;•&nbsp;
+  [Evt](https://github.com/hornjs/evt)
+  
+  ### [_Get involved!_](https://chat.vite.dev)
+</div>
