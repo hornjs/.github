@@ -1,15 +1,10 @@
 <div align="center">
   <br>
-  <br>
-  <a href="https://vite.dev" target="_blank" rel="noopener noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://openmoji.org/data/color/svg/E1C8.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://openmoji.org/data/color/svg/E1C8.svg">
-      <img alt="vite logo" src="https://openmoji.org/data/color/svg/E1C8.svg" height="60">
-    </picture>
-  </a>
-  <br>
-  <br>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hornjs/.github/083ac8c717780c55a36e690ac235b4b769e0ea1b/black-hole.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hornjs/.github/083ac8c717780c55a36e690ac235b4b769e0ea1b/black-hole.svg">
+    <img alt="vite logo" src="https://raw.githubusercontent.com/hornjs/.github/083ac8c717780c55a36e690ac235b4b769e0ea1b/black-hole.svg" height="88">
+  </picture>
   
   # Hornjs
   
