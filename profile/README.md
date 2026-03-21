@@ -10,7 +10,7 @@
   
   _JavaScript ⚡️ Http tools_
 
-  [**Horn**](https://horn.deno.dev) <sup>alpha</sup> &nbsp;•&nbsp;
+  [**Horn**](https://horn.deno.dev) <sup>wip</sup> &nbsp;•&nbsp;
   [**Fest**](https://fest.deno.dev) &nbsp;•&nbsp;
   [**Prepare-Publish**](https://github.com/hornjs/prepare-publish) &nbsp;•&nbsp;
   [**Evt**](https://github.com/hornjs/evt) &nbsp;•&nbsp;
