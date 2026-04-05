@@ -12,7 +12,7 @@
 
   [**Repostack**](https://repostack.pages.dev) <sup>alpha</sup> &nbsp;•&nbsp;
   [**Phial**](https://horn.deno.dev) <sup>wip</sup> &nbsp;•&nbsp;
-  [**Fest**](https://fest.deno.dev) &nbsp;•&nbsp;
+  [**Sevok**](https://sevok.pages.dev) &nbsp;•&nbsp;
   [**Prepare-Publish**](https://github.com/hornjs/prepare-publish) &nbsp;•&nbsp;
   [**Evt**](https://github.com/hornjs/evt) &nbsp;•&nbsp;
   [**FS-Route-IR**](https://github.com/hornjs/fs-route-ir) &nbsp;•&nbsp;
